@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week3_2</string>
+    <string name="tv_name">ชื่อ</string>
+    <string name="tv_lastname">นามสกุล</string>
+    <string name="btn_sender">บันทึกข้อมูล</string>
+    <string name="btn_clear">ล้างข้อมูล</string>
+
+    <string name="tv_header1">หน้าแรก</string>
+    <string name="tv_header2">หน้าสอง</string>
+
+</resources>
